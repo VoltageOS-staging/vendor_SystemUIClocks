@@ -1,7 +1,10 @@
-PRODUCT_SOONG_NAMESPACES += \
-    vendor/SystemUIClocks
+#
+# Automatically generated file. DO NOT MODIFY
+#
 
-# Clocks
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/SystemUIClocks/vendor
+
 PRODUCT_PACKAGES += \
     SystemUIClocks-BigNum \
     SystemUIClocks-Calligraphy \

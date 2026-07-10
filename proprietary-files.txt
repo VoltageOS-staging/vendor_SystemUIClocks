@@ -1,0 +1,9 @@
+# All unpinned blobs below are extracted from blazer CP2A.260705.006.A1
+
+# SystemUIClocks
+system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk
+system_ext/priv-app/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk
+system_ext/priv-app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk
+system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
+system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk
+system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
